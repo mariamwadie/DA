@@ -20,4 +20,4 @@ In this project, we analyzed data and explored the relationship between weather 
 *   Evaluating the Difference between the Pearson and Spearman Correlations
 
 
-![Project #1 (3)](https://github.com/Galal-pic/The-Data-Analysis-Workshop/assets/70837846/2c18a03c-5be8-488b-b863-7833488c7863)
+![thumnail](https://github.com/Galal-pic/The-Data-Analysis-Workshop/assets/70837846/69733819-e6f0-4d6e-9388-064ba3985e86)
