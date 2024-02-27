@@ -18,5 +18,6 @@ collected between July 2007 and July 2010.
 and We will use new plots such as:
 1. violinplot
 2. jointplot
+3. countplot
 
 ![thumnail](https://github.com/Galal-pic/The-Data-Analysis-Workshop/assets/70837846/b34d9983-1795-46d8-94c8-bef953d56244)
