@@ -12,7 +12,7 @@ collected between July 2007 and July 2010.
 
  we will perform standard data analysis techniques, such as 
  1. estimating  conditional probabilities, Bayes' theorem,
- 2. KolmogorovSmirnov tests, for distribution comparison. You will also implement data
+ 2. Kolmogorov-Smirnov tests, for distribution comparison. You will also implement data
  3.  transformation techniques, such as the Box-Cox and Yeo-Johnson transformations, and apply these techniques to a given dataset.
 
 and We will use new plots such as:
