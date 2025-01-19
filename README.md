@@ -1,5 +1,5 @@
 # The-Data-Analysis-Workshop
-An exceptional book on data analysis featuring 10 distinct projects spanning statistics, probability, Python programming, and visualization techniques, as well as a variety of machine learning and deep learning models. Accompanied by in-depth explanations available on my YouTube channel, each project provides comprehensive insights and practical applications. The projects encompass
+An exceptional book on data analysis featuring about 10 distinct projects spanning statistics, probability, Python programming, and visualization techniques, as well as a variety of machine learning and deep learning models. Accompanied by in-depth explanations available on my YouTube channel, each project provides comprehensive insights and practical applications. The projects encompass
 
 1. Bike Sharing Analysis
 2. Absenteeism at Work
